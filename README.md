@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Peiwen Wang
 
 You can use the [editor on GitHub](https://github.com/peiwen0831/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
